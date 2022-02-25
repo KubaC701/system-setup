@@ -4,19 +4,19 @@
     scope: global
     value: "jakubcieply7@gmail.com"
   tags:
-  - git-personal
+    - git-personal
 - name: Git setup name
   git_config:
     name: user.name
     scope: global
     value: "Jakub Ciepły"
   tags:
-  - git-personal
-  - git acclaim
+    - git-personal
+    - git acclaim
 - name: Git Acclaim setup email
   git_config:
     name: user.email
     scope: global
     value: "jc@acclaim.agency"
   tags:
-  - git-acclaim
+    - git-acclaim
